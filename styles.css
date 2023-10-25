@@ -33,7 +33,7 @@ body {
   background-size: cover;
 }
 
-@media screen and (min-width: 800px) {
+@media (min-width: 700px) {
   
   body {
     background-image: var(--background-url);
