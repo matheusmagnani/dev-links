@@ -46,3 +46,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
+
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=PRONTO&color=GREEN&style=for-the-badge"/>
+</p>
